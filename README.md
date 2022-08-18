@@ -11,4 +11,4 @@ An archive full of PS4 PKG files.
 
 | Build | Engine | Download |
 | :---: | ----------- | ----------- | 
-| OT11 | 4.16.0-3472679 | https://crun.xyz/ps4-ot11-pakonly |
+| v1.00 | 4.16.0-3472679 | https://crun.xyz/v100-ot11-pkg |
